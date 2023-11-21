@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sharandeep-99
+- 👋 Hi, I’m @Sharandeep.Bathena
 - 👀 I’m interested in Business Analytics, Data Visualization, SAP SD
 - 🌱 I’m currently learning Python, Tableau, MySQL, R programming, Power Bi, Excel
 - 💞️ I’m looking to collaborate on above skills
